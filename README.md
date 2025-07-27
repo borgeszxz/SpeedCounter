@@ -3,7 +3,7 @@
 
 <br>
 
-Um clone visual responsivo inspirado no [speedtest.net](https://www.speedtest.net), feito em **HTML + Tailwind CSS + JavaScript puro**, com animações premium e resultados fake/aleatórios.  
+Um clone visual responsivo inspirado no [speedtest.net](https://www.speedtest.net), feito em **HTML + Tailwind CSS + JavaScript puro**, com animações e resultados fake/aleatórios.  
 Ideal para estudos de UI
 
 ---
